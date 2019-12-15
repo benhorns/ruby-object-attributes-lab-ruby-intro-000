@@ -1,6 +1,7 @@
 class Dog
 
-def name
+def name=(dog_name)
+ this_digs_name = dog_name
 end
 
 end
